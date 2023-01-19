@@ -19,4 +19,4 @@ test_other_operations.py - автотесты математических оп�
 
 Для запуска тестов требуется предварительная установка библиотек **pytest** **selenium**, **requests**, а также скачивание драйвера, совместимого с браузером. Скачать можно по ссылке: https://chromedriver.chromium.org/downloads
 
-https://docs.google.com/spreadsheets/d/1h-Ou53Tw48hb9rPU327BVUvc1U0-YIEk0fWsGDCVZzc/edit#gid=854680875 - ссылка на тест-кейсы
+https://docs.google.com/spreadsheets/d/1h-Ou53Tw48hb9rPU327BVUvc1U0-YIEk0fWsGDCVZzc/edit#gid=854680875 - ссылка на тест-кейсы и баги
